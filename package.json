@@ -1,0 +1,28 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "A Word Guess command-line game using constructor functions.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiRichardson/Constructor-Word-Guess.git"
+  },
+  "keywords": [
+    "word-guess",
+    "command-line",
+    "game"
+  ],
+  "author": "Kai Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaiRichardson/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/KaiRichardson/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "prompt": "^1.0.0"
+  }
+}
